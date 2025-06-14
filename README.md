@@ -49,3 +49,18 @@ Each option is assigned a **priority level**:
  ![alt text](pic4.png) 
  ![alt text](pic5.png)
 
+
+---
+
+## ▶️ How to Run
+
+### 🔽 Requirements
+- Python 3.x
+
+### 🏃 Running the App
+
+```bash
+python nadra_center.py
+
+🙋‍♂️ Author
+Developed by Umer Khan
